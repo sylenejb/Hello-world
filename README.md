@@ -3,11 +3,11 @@ First Repository
 
 ## Table of Contents
 
--[Project Title](#Project-Title)
--[What was the project](#What-was-the-project)
--[How can GitHub help me](#How-can-GitHub-help-me)
+-[Project Title](#Project-Title)  
+-[What was the project](#What-was-the-project)  
+-[How can GitHub help me](#How-can-GitHub-help-me)  
 
-##Project Title
+## Project Title
 "My sample, Hello world, is my first repository!"
 
 ## What was the project
