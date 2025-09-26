@@ -11,7 +11,7 @@ First Repository
 "My sample, Hello world, is my first repository!"
 
 ## What was the project
-This project is me preaticing how to use GitHub for the first time. From this I learned to do a repository and change my profile. 
+This project is me preaticing how to use GitHub for the first time. From this I learned to *do a repository and change my profile*. 
 
 ## How can GitHub help me
-GitHub can help me build a portfolio of my work as an analytics student. I hope to begin working on my own projects outside of class to show what I can achieve and post them on GitHub as well.
+GitHub can help me **build a portfolio** of my work as an analytics student. I hope to begin working on my own projects outside of class to show what I can achieve and post them on GitHub as well.
